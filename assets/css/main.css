@@ -180,6 +180,13 @@
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
   background-color: #222; }
 
+.navbar-brand {
+  font-family: 'pacificoregular';
+  font-size: 30px;
+  color: #FFF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
 @media (min-width: 992px) {
   .navbar-nav > li.header-action-button + li.header-action-button {
     margin-left: -15px; }
